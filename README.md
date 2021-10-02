@@ -2,8 +2,6 @@
 - 👀 I’m interested in creating *GUIs*
 - 🌱 I’m currently learning *C language*
 - 📫 How to reach me : jothamsamuel05@gmail.com
+- 👨‍💻 I love **Python** and I use it for `GUI development`.
 
-<!---
-JothaM123/JothaM123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
