@@ -1,5 +1,5 @@
 # All about me!
-- 👋 Hi, I’m @JothaM123
+- 👋 Hi, I’m Jotham Rizanth
 - 👀 I’m interested in creating *GUIs*
 - 📫 How to reach me : jothamsamuel05@gmail.com
 - 👨‍💻 I love **Python**
